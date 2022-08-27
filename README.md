@@ -1,2 +1,3 @@
-# googleNew
-Current version of google 
+# Google Project
+
+* My Google project for patika.dev.
